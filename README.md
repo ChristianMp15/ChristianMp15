@@ -2,7 +2,6 @@
 <h3 align="center">Experienced full-stack web developer with a passion for programming seeking to transition from computer technician to a fulfilling career in web development. Proficient in HTML, CSS, JavaScript, Python, Django, Vite, ReactJS, NodeJS, ExpressJS, Mongoose, MongoDB, SQL, Git, and Github. Looking for an opportunity to learn, grow, and master my skills as a web developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
-- 🌱 I’m currently learning **Django and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChristianMp15](https://github.com/ChristianMp15)
 
